@@ -11,3 +11,8 @@ print()
 print("After Appending")
 for element in a:
 	print (element)
+
+
+
+# diffrence between append and extend ?
+

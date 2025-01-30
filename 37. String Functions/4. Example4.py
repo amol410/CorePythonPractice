@@ -1,5 +1,5 @@
 print("****** isspace Function ******")
-name = "  "
+name = " "
 str1 = name.isspace()
 print(name)
 print(str1)

@@ -7,6 +7,10 @@ n = a.pop(2)
 
 print("After POP:", a)
 
+# delete can delete entire list
+# pop can remove last element easily
+# delete can be used to delete half or customized string (slicing)
+
 for element in a:
 	print(element)
 	

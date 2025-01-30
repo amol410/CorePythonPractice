@@ -5,10 +5,10 @@ print()
 
 # Deleting single element of List
 print("After Deletion:")
-del a[2]
+del a[1]
 print(a)
 print()
 
 # Deleting entire List
 del a
-print(a)		# It will show error as List a has been deleted 
+# print(a)		# It will show error as List a has been deleted 

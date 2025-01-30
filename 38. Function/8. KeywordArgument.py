@@ -3,7 +3,7 @@
 def show(name, age):
 	print(f"Name: {name} Age: {age}")
 	
-show(name="GeekyShows", age=62)
+show(age =62, name ="GeekyShows")
 
 #Example 2
 def show(name, age):

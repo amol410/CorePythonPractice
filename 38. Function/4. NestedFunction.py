@@ -19,7 +19,7 @@ print(disp())
 # Example 3 With Return Statement and Parameter
 def disp(st):
 	def show():
-		return "Show Function "
+		return "Show Function"
 	result = show() + st + " Disp Function"
 	return result
 print(disp("GeekyShows"))

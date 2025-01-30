@@ -7,3 +7,4 @@ i = 0
 while i < n:
 	print(i, "=", a[i])
 	i+=1
+

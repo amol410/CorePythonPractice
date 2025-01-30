@@ -1,6 +1,9 @@
 # For Loop
 st = "GeekyShows"
-for ch in st:
-	print(ch)
 
+y = len(st)
+print(y)
+for ch in range(y):
+	print(ch, "=", st[ch] )
 print("Rest of the Code")
+

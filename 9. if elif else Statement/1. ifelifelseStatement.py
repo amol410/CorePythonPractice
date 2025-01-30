@@ -1,5 +1,5 @@
 # If elif else Statement
-day = "Tuesday"
+day = "Thursday"
 if (day == "Monday"):
 	print("Today is Monday")
 elif (day == "Tuesday"):
@@ -20,3 +20,6 @@ elif day == "Wednesday":
 	print("Today is Wednesday")
 else:
 	print("Today is Holiday")
+
+
+

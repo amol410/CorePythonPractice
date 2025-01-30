@@ -5,6 +5,7 @@ b = 10.23
 c = "GeekyShows"
 d = 'GeekyShows'
 
+
 # Multiple
 e, f, g, h = 10, 10.23, "GeekyShows", 'GeekyShows'
 

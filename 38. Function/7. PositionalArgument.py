@@ -13,9 +13,9 @@ def pw(x, y):
 	
 pw(2, 5)
 
-#Example 3 will show Error
-#def pw(x, y):
-#	z = x**y
-#	print(z)
+# Example 3 will show Error
+def pw(x, y):
+	z = x**y
+	print(z)
 	
-#pw(5, 2, 3)
+pw(5, 2, 3)

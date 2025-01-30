@@ -12,6 +12,7 @@ print("Like", "Share", "Subscribe")
 
 # print integer
 print(10)
+print(type(10))
 
 # prints in separate line
 print("Welcome")
@@ -26,14 +27,24 @@ print(data)
 print("Like", "Share", "Subscribe", sep="***")
 
 # print with end 'space'
-print("Welcome", end="")
-print("to", end="")
+print("Welcome", end=" ")
+print("to", end=" ")
 print("GeekyShows")
+
+# without end
+print("Welcome")
+print("to")
+print("GeekyShows")
+
 
 # print with end 'tab'
 print("We", end="\t")
 print("to", end="\t")
 print("Ge")
+
+print("Welcome", end="\n")
+print("to", end="\n")
+print("Geekyshows")
 
 # print variable value
 a = 10
@@ -51,6 +62,6 @@ print("Value: ", m)
 
 # print with integer and string
 name = "Rahul"
-age = 62
-print("My Name is ", name, "and My age is ", age)
+age = 26
+print("My Name is " ,name, "and My age is ", age)
 

@@ -1,6 +1,6 @@
 # If statement
 if 5>2:
-	print("Greater")
+    print("Greater")
 
 # If Statement in Single Line
 if 5>2: print("Greater")
@@ -11,7 +11,7 @@ if 5>2:
 print("Rest of The Code")
 
 # If Statement with Group of Statement
-if 5>2:
+if 5<2:
 	print("Greater")
 	print("5 is greater than 2")
 print("Rest of The Code")
@@ -20,7 +20,7 @@ print("Rest of The Code")
 if 5>2:
 	print("Greater")
 	print("5 is greater than 2")
-	if(6>2):
+	if(6<2):
 		print("6 is Greater than 2")
 print("Rest of The Code")
 

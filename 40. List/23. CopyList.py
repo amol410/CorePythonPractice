@@ -1,7 +1,7 @@
 a = [10, 20, 30, 40, 50]
 b = a.copy()
-print("A:", a)
-print("B:", b)
+print("A:", id(a))
+print("B:", id(b))
 
 print()
 print("Modifying A")

@@ -5,8 +5,8 @@ print(stu)
 print(id(stu))
 print()
 
-removed_value = stu.pop(102)
-#removed_value = stu.pop(106)	# Key is not found so KeyError
+removed_value = stu.pop(101)
+# removed_value = stu.pop(106)	# Key is not found so KeyError
 print("After Removing Dict:")
 print(stu)
 print(id(stu))

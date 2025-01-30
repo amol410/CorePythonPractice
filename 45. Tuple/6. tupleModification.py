@@ -5,7 +5,7 @@ print(a)
 print()
 
 # Not Possible to Modify like below line
-#a[1] = 40		# Show TypeError
+a[1] = 40		# Show TypeError
 
 # It is not possible to modify a tuple but we can concate or slice
 # to achieve desired tuple

@@ -15,7 +15,7 @@ print()
 # Delete Entire Dictionary
 del stu
 
-print(stu)		# It will show error stu not defined
+# print(stu)		# It will show error stu not defined
 
 
 

@@ -9,8 +9,8 @@ elif a < b:
 	print("a is less than b")
 
 # If elif with User Input
-a = int(input("Enter Value of A: "))
-b = int(input("Enter Value of B: "))
+a = int(input("Enter Value of A: ")) 
+b = int(input("Enter Value of B: ")) 
 if a > b:
 	print("a is greater than b")
 elif a == b:

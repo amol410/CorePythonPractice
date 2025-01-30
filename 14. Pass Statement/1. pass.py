@@ -1,5 +1,5 @@
 # Pass Statement
-if(5<2):
+if(5>2):
 	pass
 else:
 	print("Else Part Do Something")

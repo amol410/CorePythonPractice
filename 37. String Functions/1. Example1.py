@@ -11,7 +11,7 @@ print(name)
 print(str1)
 
 print("****** Swapcase Function ******")
-name = "geekyshows"
+name = "GeekyShows"
 str1 = name.swapcase()
 print(name)
 print(str1)
@@ -19,5 +19,12 @@ print(str1)
 print("****** Title Function ******")
 name = "hello geekyshows how are you"
 str1 = name.title()
+print(name)
+print(str1)
+
+
+print("****** Capitalize Function ******")
+name = "hello geekyshows how are you"
+str1 = name.capitalize()
 print(name)
 print(str1)

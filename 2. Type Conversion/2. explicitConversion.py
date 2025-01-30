@@ -1,6 +1,7 @@
 a = 5
 b = 2
 value = a/b
+print(value)
 print(type(value))
 int_value = int(value)
 print(int_value)
@@ -43,6 +44,7 @@ vn5 = tuple(n5)
 print(vn5)
 print(type(vn5))
 
+  
 # Tuple to List
 n5 = ("Rahul", "Ram", "Sonam", "Preet")
 vn5 = list(n5)

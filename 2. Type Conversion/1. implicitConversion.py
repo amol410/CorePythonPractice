@@ -16,6 +16,13 @@ p = j + k
 print(p)
 print(type(p))
 
+
+j = "Hello" + " "
+k = "Geeky Shows"
+p = j + k
+print(p)
+print(type(p))
+
 q = 20
 u = '10'
 r = q + u 

@@ -1,7 +1,7 @@
 str1 = 'GeekyShows'
 str2 = "GeekyShows"
-str3 = '''Hello Guys
-Please Subscribe
+str3 = '''Hello Guys 
+Please Subscribe 
 GeekyShows'''
 str4 = """Hello Guys
 Please Subscribe

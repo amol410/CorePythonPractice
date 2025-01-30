@@ -1,4 +1,6 @@
 # Dictionary
+## Indexing is not possible in dictionary 
+## can have multiple data types 
 
 # Creating Empty Dictionary
 d = {}
@@ -16,8 +18,8 @@ print(stu[103])
 print()
 
 print(fees)
-print(fees['rahul'])
-print(fees['raj'])
-print(fees['sonam'])
+print("rahul", fees['rahul'])
+print('raj', fees['raj'])
+print('sonam', fees['sonam'])
 
 

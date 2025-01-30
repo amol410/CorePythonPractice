@@ -1,4 +1,6 @@
 x = [101, 102, 103, 104, 105, 106, 107]
+
+
 print("Original List")
 n = len(x)
 for i in range(n):
@@ -6,7 +8,7 @@ for i in range(n):
 print()	
 
 print("From 1st Position to 4th Position")
-a = x[1:5]
+a = x[1:5:]
 for i in a:
 	print(i)
 print()	
@@ -24,10 +26,10 @@ for i in c:
 print()	
 
 print("Last 4 Elements")
-d = x[-4:]
+d = x[-4:-1]
 for i in d:
 	print(i)
-print()	
+print(d)	
 	
 print("From 0th Position to 6th Position stride 2")
 e = x[0:7:2]
@@ -39,3 +41,7 @@ print("Last 5 Elements with [-5-(-3)]= 2 elements towards right")
 f = x[-5:-3]
 for i in f:
 	print(i)
+print(f)
+
+j = x[-6:-2]
+print(j)

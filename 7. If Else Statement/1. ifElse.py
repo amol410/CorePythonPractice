@@ -15,14 +15,7 @@ else:
 print("Rest of The Code")
 
 # If Else Statement with Group of Statement
-if 5<2:
-	print("Greater")
-	print("5 is greater than 2")
-else:
-	print("Smaller")
-	print("Statement 2")
-print("Rest of The Code")
-
+ 
 # Nested If  Else Statement
 a = 5
 b = 2

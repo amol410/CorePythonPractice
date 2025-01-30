@@ -4,10 +4,13 @@ a = [10, 20, -50, 21.3, 'Geekyshows']
 #without index
 print("Accessing List using for Loop without index")
 for element in a:
-	print(element)
-	
+	print(element) 
+# for element in reversed(a)
+
 print()
 
+
+a = [10, 20, -50, 21.3, 'Geekyshows']
 #With Index
 print("Accessing List using for Loop with index")
 n = len(a)

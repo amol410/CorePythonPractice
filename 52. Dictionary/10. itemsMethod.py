@@ -4,19 +4,21 @@ print("Original Dict:")
 print(stu)
 print()
 
-it = stu.items()
+it = stu.values()
+# it = stu.keys()
+# it = stu.items()
 print(it)
 print()
 # converting into list
 lst = list(it)
-# printing converted list
-print(lst)
-print()
-# accessing one element
-print(lst[0])
-print(lst[0][0])
-print(lst[0][1])
-print()
-for r in lst:
-	for c in r:
-		print(c)
+# # printing converted list
+# print(lst)
+# print()
+# # accessing one element
+# print(lst[0])
+# print(lst[0][0])
+# print(lst[0][1])
+# print()
+# for r in lst:
+# 	for c in r:
+# 		print(c)

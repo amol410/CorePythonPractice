@@ -11,19 +11,15 @@ print()
 #For 2D array shape specifies number of row and column in each row
 print("1D Array shape:",a.shape)
 print("2D Array shape:",b.shape)
-print()
 #size Attribute
 print("1D Array size:",a.size)
 print("2D Array size:",b.size)
-print()
 #itemsize Attribute
 print("1D Array itemsize:",a.itemsize)
 print("2D Array itemsize:",b.itemsize)
-print()
 #dtype Attribute
 print("1D Array dtype:",a.dtype)
 print("2D Array dtype:",b.dtype)
-print()
 #nbytes Attribute
 print("1D Array nbytes:",a.nbytes)
 print("2D Array nbytes:",b.nbytes)

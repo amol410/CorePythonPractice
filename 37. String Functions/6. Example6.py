@@ -14,6 +14,6 @@ print(str1)
 
 print("****** join Function ******")
 name = ('Hello', 'How', 'Are', 'You')
-str1 = "_".join(name)
+str1 = " ".join(name)
 print(name)
 print(str1)

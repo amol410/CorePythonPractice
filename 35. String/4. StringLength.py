@@ -1,4 +1,6 @@
-str1 = "GeekyShows"
-n = len(str1)
-print(n)
+str1 = "Devanshu"
+
+y = len(str1)
+
+print(y)
 

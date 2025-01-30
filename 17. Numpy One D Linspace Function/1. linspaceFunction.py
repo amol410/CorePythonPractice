@@ -1,6 +1,6 @@
 # 1D Array using linspace Function Numpy
 from numpy import *
-a = linspace(1, 8, 5)
+a = linspace(1, 3, 5)
 
 print("**** Accessing Individual Elements ****")
 print(a[0])

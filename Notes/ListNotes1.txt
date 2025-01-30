@@ -1,0 +1,33 @@
+List Has Following Functions
+
+sort() => 
+no argument required, only available to list
+Modifies the original list in-place
+
+append() => Modifies the original list in-place, 
+only available to list
+cant add multiple items once 
+
+sorted() => works for lists, strings, tuples, dictionaries
+Returns a new sorted list, does not modify original
+
+len() => works for lists, strings, tuples, dictionaries, set, any iterable
+
+sum() => list, tuple and set also with any iterable with numeric values 
+
+extend() => it pushes list inside a list  
+
+remove(item) => list specific, Modifies original list
+
+insert(index, item) => list specific, Modifies original list
+
+Reverse() => 
+
+Pop() =>
+
+can tuple contain multiple data types --- yes 
+
+my_tuple = (1, "Hello", 3.14, [10, 20, 30], {"key": "value"}, (5, 6))
+print(my_tuple)
+
+
