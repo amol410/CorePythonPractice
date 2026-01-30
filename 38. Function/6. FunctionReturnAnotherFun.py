@@ -3,7 +3,7 @@
 def disp():
 	def show():
 		return "Show Function"
-	print("Disp Function")    amol shinde
+	print("Disp Function") 
 	return show
 
 r_sh = disp()
@@ -19,3 +19,4 @@ def show():
 
 r_sh = disp(show)
 print(r_sh())
+
