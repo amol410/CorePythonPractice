@@ -6,7 +6,7 @@ def show(name, age):
 show(name="GeekyShows", age=62)
 
 #Example 2
-def show(name, age=27):
+def show(name, age=20):
 	print(f"Name: {name} Age: {age}")
 	
 show(name="GeekyShows")
@@ -22,3 +22,4 @@ show(name="GeekyShows", age=62)
 #	print(f"Name: {name} Age: {age}")
 	
 #show(name="GeekyShows", age=62, roll=101)
+
